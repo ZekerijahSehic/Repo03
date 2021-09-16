@@ -1,11 +1,8 @@
 function main(){
     // Only change code below this line
-
-    //comme
-
-    /* comme
-        nt */
-        
+    // comment
+    /* comment
+       comment */  
     // Only change code above this line
 }
 
